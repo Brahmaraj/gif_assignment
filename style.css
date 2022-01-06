@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#addgif{
+    width: 30vw;
+    height: 30vh;
+    border: 1px solid black;
+}
